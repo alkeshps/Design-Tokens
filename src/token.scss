@@ -1,0 +1,33 @@
+@import "../build/css/_variables.css";
+
+.topbar,
+.button,
+.main-bg {
+  background-color: var(--light-theme-inf-brand-color);
+}
+
+.appcard {
+  background-color: var(--light-theme-inf-primary-bg-color);
+  border-radius: var(--light-theme-inf-rounded-xl);
+}
+
+.applist {
+  background-color: var(--light-theme-inf-secondary-bg-color);
+}
+
+.app-name,
+.rate-count {
+  color: var(--light-theme-inf-primary-text-color);
+}
+
+.app-info {
+  color: var(--light-theme-inf-secondary-text-color);
+}
+
+.btn-label {
+  color: var(--light-theme-inf-tertiary-text-color);
+}
+
+.button {
+  border-radius: var(--light-theme-inf-rounded-md);
+}

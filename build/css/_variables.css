@@ -3,18 +3,14 @@
  */
 
 :root {
-  --light-theme-inf-brand-color: #e81e1e;
+  --light-theme-inf-brand-color: #1d7012;
   --light-theme-inf-primary-bg-color: #ffffff;
   --light-theme-inf-secondary-bg-color: #f3f5f8;
   --light-theme-inf-primary-text-color: #1f1f1f;
   --light-theme-inf-secondary-text-color: #606060;
   --light-theme-inf-tertiary-text-color: #ffffff;
-  --light-theme-inf-rounded-sm: 4;
-  --light-theme-inf-rounded-md: 8;
-  --light-theme-inf-rounded-lg: 16;
-  --light-theme-inf-rounded-xl: 24;
-  --light-theme-inf-space-sm: 4;
-  --light-theme-inf-space-md: 8;
-  --light-theme-inf-space-lg: 16;
-  --light-theme-inf-space-xl: 24;
+  --light-theme-inf-rounded-sm: 4px;
+  --light-theme-inf-rounded-md: 8px;
+  --light-theme-inf-rounded-lg: 16px;
+  --light-theme-inf-rounded-xl: 24px;
 }
