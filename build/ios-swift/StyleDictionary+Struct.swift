@@ -9,7 +9,7 @@
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let lightThemeInfBrandColor = UIColor(red: 0.114, green: 0.439, blue: 0.071, alpha: 1)
+    internal static let lightThemeInfBrandColor = UIColor(red: 0.910, green: 0.118, blue: 0.118, alpha: 1)
     internal static let lightThemeInfPrimaryBgColor = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     internal static let lightThemeInfPrimaryTextColor = UIColor(red: 0.122, green: 0.122, blue: 0.122, alpha: 1)
     internal static let lightThemeInfRoundedLg = 16px
